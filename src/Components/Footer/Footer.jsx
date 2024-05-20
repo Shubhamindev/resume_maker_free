@@ -43,13 +43,13 @@ export default function Footer() {
                 <Image style={{ height: '44px' }} src={logo} alt="logo" />
                 <Text>© Buy Me a Coffee : Shubham Thakur</Text>
                 <Stack direction={'row'} spacing={6}>
-                    <SocialButton label={'Github'} href={'https://github.com/eklotaravan'}>
+                    <SocialButton label={'Github'} href={'https://github.com/shubhamindev'}>
                         <FaGithub />
                     </SocialButton>
                     <SocialButton label={'Snapchat'} href={'https://snapchat.com/shubhamr4475'}>
                         <FaSnapchat />
                     </SocialButton>
-                    <SocialButton label={'Instagram'} href={'https://instagram.com/shubhamthakur10000'}>
+                    <SocialButton label={'Instagram'} href={'https://instagram.com/shubham_thakur_10000'}>
                         <FaInstagram />
                     </SocialButton>
                 </Stack>
